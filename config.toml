@@ -70,17 +70,16 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/Grace888-coder/"
 [[params.social]]
     name = "Gitlab"
     icon = "far fa-thumbs-up"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://www.instagram.com/?hl=en"
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
