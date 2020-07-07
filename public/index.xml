@@ -10,5 +10,15 @@
 	<atom:link href="https://grace888-coder.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About me</title>
+      <link>https://grace888-coder.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grace888-coder.github.io/about/</guid>
+      <description>Introduction: My name is Grace, I was born on the 30th of November, 2004. I am interested in coding. Therefore, I have learn 3 coding languages, such as python, Java and Scratch. I have done a 1 week course of Java in First code academy.
+My Family: My Mom is born in Hong Kong and my dad is born in Korea. I am able to speak quite a lot of languages, such as: English, Cantonese, Mandarin, Korean and Japanese.</description>
+    </item>
+    
   </channel>
 </rss>

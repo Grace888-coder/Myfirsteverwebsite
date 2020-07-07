@@ -16,10 +16,10 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "IT Colleague"
+    author = "JgCoder"
     description = ""
     keywords = "blog,student,personal"
-    info = "Interested in coding"
+    info = "Interested in coding, Developer"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
@@ -96,11 +96,11 @@ pygmentscodefencesguesssyntax = true
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "About"
             weight = 2
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Home"
             weight = 2
-            url = "posts/"
+            url = "http://localhost:2897/#ZgotmplZ"
