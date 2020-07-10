@@ -21,6 +21,7 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,student,personal"
     info = "Interested in coding, Developer"
     avatarurl = "images/avatar.jpg"
+
     #gravatar = "john.doe@example.com"
     footercontent = ""
 
@@ -84,7 +85,7 @@ pygmentscodefencesguesssyntax = true
     name = "RSS"
     icon = "fas fa-rss"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "https://Grace888-coder.github.io/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 

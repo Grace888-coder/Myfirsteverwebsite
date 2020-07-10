@@ -1,5 +1,5 @@
 body.colorscheme-dark {
-  color: #dadada;
+  color: #00C7D4;
   background-color: #212121; }
   body.colorscheme-dark a {
     color: #42a5f5; }
@@ -12,7 +12,7 @@ body.colorscheme-dark {
     color: #dadada; }
   body.colorscheme-dark code {
     background-color: #424242;
-    color: #dadada; }
+    color: #00C7D4; }
   body.colorscheme-dark pre code {
     background-color: inherit;
     color: inherit; }
@@ -23,7 +23,7 @@ body.colorscheme-dark {
 
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto {
-    color: #dadada;
+    color: #00C7D4;
     background-color: #212121; }
     body.colorscheme-auto a {
       color: #42a5f5; }
@@ -36,7 +36,7 @@ body.colorscheme-dark {
       color: #dadada; }
     body.colorscheme-auto code {
       background-color: #424242;
-      color: #dadada; }
+      color: #00C7D4; }
     body.colorscheme-auto pre code {
       background-color: inherit;
       color: inherit; }
@@ -46,27 +46,27 @@ body.colorscheme-dark {
       border: 2px solid #dadada; } }
 
 body.colorscheme-dark .content .list ul li .title {
-  color: #dadada; }
+  color: #00C7D4; }
   body.colorscheme-dark .content .list ul li .title:hover, body.colorscheme-dark .content .list ul li .title:focus {
     color: #42a5f5; }
 
 body.colorscheme-dark .content .centered .about ul li a {
-  color: #dadada; }
+  color: #00C7D4; }
   body.colorscheme-dark .content .centered .about ul li a:hover, body.colorscheme-dark .content .centered .about ul li a:focus {
     color: #42a5f5; }
 
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto .content .list ul li .title {
-    color: #dadada; }
+    color: #00C7D4; }
     body.colorscheme-auto .content .list ul li .title:hover, body.colorscheme-auto .content .list ul li .title:focus {
       color: #42a5f5; }
   body.colorscheme-auto .content .centered .about ul li a {
-    color: #dadada; }
+    color: #00C7D4; }
     body.colorscheme-auto .content .centered .about ul li a:hover, body.colorscheme-auto .content .centered .about ul li a:focus {
       color: #42a5f5; } }
 
 body.colorscheme-dark .navigation a, body.colorscheme-dark .navigation span {
-  color: #dadada; }
+  color: #00C7D4; }
 
 body.colorscheme-dark .navigation a:hover, body.colorscheme-dark .navigation a:focus {
   color: #42a5f5; }
@@ -79,7 +79,7 @@ body.colorscheme-dark .navigation a:hover, body.colorscheme-dark .navigation a:f
 
 @media only screen and (max-width: 768px) {
   body.colorscheme-dark .navigation .navigation-list .menu-separator {
-    border-top: 2px solid #dadada; } }
+    border-top: 2px solid #00C7D4; } }
 
 @media only screen and (max-width: 768px) {
   body.colorscheme-dark .navigation #menu-toggle:checked + label {
@@ -87,13 +87,13 @@ body.colorscheme-dark .navigation a:hover, body.colorscheme-dark .navigation a:f
 
 @media only screen and (max-width: 768px) {
   body.colorscheme-dark .navigation .menu-button {
-    color: #dadada; }
+    color: #00C7D4; }
     body.colorscheme-dark .navigation .menu-button:hover, body.colorscheme-dark .navigation .menu-button:focus {
       color: #42a5f5; } }
 
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto .navigation a, body.colorscheme-auto .navigation span {
-    color: #dadada; }
+    color: #00C7D4; }
   body.colorscheme-auto .navigation a:hover, body.colorscheme-auto .navigation a:focus {
     color: #42a5f5; } }
 
@@ -105,7 +105,7 @@ body.colorscheme-dark .navigation a:hover, body.colorscheme-dark .navigation a:f
 
 @media only screen and (prefers-color-scheme: dark) and (max-width: 768px) {
   body.colorscheme-auto .navigation .navigation-list .menu-separator {
-    border-top: 2px solid #dadada; } }
+    border-top: 2px solid #00C7D4; } }
 
 @media only screen and (prefers-color-scheme: dark) and (max-width: 768px) {
   body.colorscheme-auto .navigation #menu-toggle:checked + label {
@@ -113,7 +113,7 @@ body.colorscheme-dark .navigation a:hover, body.colorscheme-dark .navigation a:f
 
 @media only screen and (prefers-color-scheme: dark) and (max-width: 768px) {
   body.colorscheme-auto .navigation .menu-button {
-    color: #dadada; }
+    color: #00C7D4; }
     body.colorscheme-auto .navigation .menu-button:hover, body.colorscheme-auto .navigation .menu-button:focus {
       color: #42a5f5; } }
 
